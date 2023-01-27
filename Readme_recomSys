@@ -1,0 +1,6 @@
+this is little example of a recommandation system
+in this project i used  :
+-( matplotlib , numpy, pandas...) for data preprocessing and preparation
+-( opencv ) for image processing
+-(tensorflow) framework for creation and training of the model 
+-sklearn, time and seaborn for data visualization 
